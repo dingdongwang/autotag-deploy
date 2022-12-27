@@ -1,0 +1,8 @@
+torch
+sklearn
+jieba
+pandas
+pyyaml
+transformers
+tensorboard
+flake8
